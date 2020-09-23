@@ -1,3 +1,3 @@
 # prospero
-Invest spare change into DEFI via Avalanche with Prospero!
+Invest spare change into DeFi via Avalanche with Prospero!
 
