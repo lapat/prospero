@@ -1,3 +1,3 @@
 # prospero
-Invest spare change into DEFI via AVA with Prospero!
+Invest spare change into DEFI via Avalanche with Prospero!
 
